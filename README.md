@@ -1,3 +1,3 @@
 # Plugin
 
-Developed with Unreal Engine 5
+readConfig:读取外部配置文件
